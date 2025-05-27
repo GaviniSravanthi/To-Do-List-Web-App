@@ -2,15 +2,23 @@
 
 ✅ To-Do List Web App (Front-End Only)
 
-I built a simple and intuitive To-Do List Web App using only HTML, CSS, and Vanilla JavaScript—no frameworks, no libraries!
+I built a simple and intuitive To-Do List Web App using only HTML, CSS, and Vanilla JavaScript—no frameworks, no libraries!  
+
 Key Features:
-Add new tasks
-Mark tasks as completed with a single click
-Delete tasks
-Responsive and minimalist UI design
+1.Add new tasks  
+
+2.Mark tasks as completed with a single click
+
+3.Delete tasks
+
+4.Responsive and minimalist UI design
+
 Tech Stack:
+
 HTML for structure
+
 CSS for styling and responsiveness
+
 Vanilla JavaScript for interactivity
 
 Motivation:
