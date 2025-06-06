@@ -1,4 +1,3 @@
----
 
 ✅ To-Do List Web App (Front-End Only)
 
@@ -25,6 +24,7 @@ Motivation:
 
 This project helped me solidify core front-end skills like DOM manipulation, event handling, and dynamic UI updates without relying on external libraries. 
 It's a great starting point for beginners or anyone brushing up on frontend fundamentals.
+
 ---
 ## 📸 Preview
 
